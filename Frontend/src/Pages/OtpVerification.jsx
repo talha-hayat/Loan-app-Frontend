@@ -131,7 +131,7 @@ const OtpVerification = () => {
           </div>
         </form>
 
-        <div className="text-center mt-4">
+        {/* <div className="text-center mt-4">
           <p className="text-sm text-gray-600">
             Didn’t receive the code?{" "}
             <span
@@ -141,7 +141,7 @@ const OtpVerification = () => {
               Resend OTP
             </span>
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
